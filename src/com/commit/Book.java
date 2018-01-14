@@ -5,7 +5,7 @@ public class Book {
     private String type = null;
     private double price = 0;
 
-    public String getType() {
+    String getType() {
         return type;
     }
 
@@ -13,7 +13,7 @@ public class Book {
         this.type = type;
     }
 
-    public double getPrice() {
+    double getPrice() {
         return price;
     }
 
