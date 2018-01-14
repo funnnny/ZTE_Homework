@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b892ad2f-651c-4368-a838-5542a144798a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ZTE_Homework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ZTE_Homework/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Book.java" afterPath="$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Book.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Main.java" afterPath="$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../ZTE_Homework/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +16,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            <state relative-caret-position="189">
+              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="351">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
                 <element signature="e#126#127#0" expanded="true" />
                 <element signature="e#153#154#0" expanded="true" />
@@ -83,9 +83,9 @@
         <option value="$PROJECT_DIR$/../ZTE_Homework/src/Main.java" />
         <option value="$PROJECT_DIR$/../ZTE_Homework/src/Book.java" />
         <option value="$PROJECT_DIR$/../ZTE_Homework/src/Discount.java" />
-        <option value="$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Main.java" />
         <option value="$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Discount.java" />
         <option value="$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Book.java" />
+        <option value="$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Main.java" />
       </list>
     </option>
   </component>
@@ -563,7 +563,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515945250827</updated>
-      <workItem from="1515945254285" duration="1516000" />
+      <workItem from="1515945254285" duration="1726000" />
     </task>
     <task id="LOCAL-00001" summary="第一次作业">
       <created>1515946360327</created>
@@ -579,11 +579,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515946724458</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第一次作业">
+      <created>1515946774514</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1515946774514</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1516000" />
+    <option name="totallyTimeSpent" value="1726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1040" extended-state="0" />
@@ -638,14 +645,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Discount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -656,8 +655,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="351">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
             <element signature="e#126#127#0" expanded="true" />
             <element signature="e#153#154#0" expanded="true" />
@@ -668,6 +667,14 @@
             <element signature="e#320#321#0" expanded="true" />
             <element signature="e#354#355#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
