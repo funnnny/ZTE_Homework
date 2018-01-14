@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b892ad2f-651c-4368-a838-5542a144798a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ZTE_Homework/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ZTE_Homework/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ZTE_Homework/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ZTE_Homework/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ZTE_Homework/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ZTE_Homework/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ZTE_Homework/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ZTE_Homework/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ZTE_Homework/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ZTE_Homework/ZTE_Homework.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Discount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ZTE_Homework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ZTE_Homework/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Book.java" afterPath="$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Book.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../ZTE_Homework/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,17 +39,17 @@
       <file leaf-file-name="Book.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="135">
+              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
               <folding>
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -574,12 +563,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515945250827</updated>
-      <workItem from="1515945254285" duration="1099000" />
+      <workItem from="1515945254285" duration="1464000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次作业">
+      <created>1515946360327</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515946360328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1099000" />
+    <option name="totallyTimeSpent" value="1464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1040" extended-state="0" />
@@ -587,19 +584,19 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -652,17 +649,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../ZTE_Homework/src/com/commit/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="135">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
           <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
           </folding>
         </state>
       </provider>
