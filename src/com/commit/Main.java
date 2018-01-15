@@ -27,6 +27,7 @@ public class Main {
                 Discount discount = new Discount();
                 Book book = new Book(type, price);
                 double totalPrice = discount.getDiscount(book);
+
                 System.out.println(totalPrice);
             }catch (Exception e){
                 System.out.println("PRICE ERROR");
