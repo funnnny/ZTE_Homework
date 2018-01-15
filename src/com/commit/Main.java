@@ -15,6 +15,10 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+        System.out.println("***- please input book's type and price -***");
+        System.out.println("format like: type price");
+        System.out.println("type only can input: new old normal");
+        System.out.println("price is a double number");
         while(sc.hasNext()){
             String []str = sc.nextLine().split(" ");
             String type = str[0];
